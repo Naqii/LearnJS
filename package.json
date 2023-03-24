@@ -1,0 +1,19 @@
+{
+  "name": "learnjs",
+  "version": "1.0.0",
+  "description": "Learn JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naqii/LearnJS.git"
+  },
+  "author": "Naqii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naqii/LearnJS/issues"
+  },
+  "homepage": "https://github.com/Naqii/LearnJS#readme"
+}
